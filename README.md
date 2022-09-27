@@ -1,4 +1,4 @@
-# pencil_sketch
+# Pencil_sketch generation
 
 For creating your own pencil sketch you need to do is
 
